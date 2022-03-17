@@ -4,4 +4,4 @@
 
 # Emily Griffith Technical College
 
-## Like Link: https://deploy-with-herokuu.herokuapp.com/
+## Like Link: https://deploy-with-herokuu.herokuapp.com
